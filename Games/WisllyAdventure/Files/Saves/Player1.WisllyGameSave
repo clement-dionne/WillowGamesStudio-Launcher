@@ -1,0 +1,11 @@
+$PlayerName=Player1
+$PlayerPosX=5,204265
+$PlayerPosY=-3,073065
+$PlayerPosZ=0
+$Inventory=0,0,0,0,0,0,0,0,0,0
+$Chest=0,0,0,0,0,0,0,0,0,0,0,0
+$Level=0
+$Coins=1
+$Health=100
+$Damage=1
+$Shield=1
